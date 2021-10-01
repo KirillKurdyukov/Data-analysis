@@ -1,0 +1,11 @@
+labels:
+- economics 
+- entertainment
+- international
+- sports 
+- state
+path_to_table:
+- ./stopword/Stopwords.csv
+path_to_test_table:
+- ./Test/final_test_data.csv
+seed: 10

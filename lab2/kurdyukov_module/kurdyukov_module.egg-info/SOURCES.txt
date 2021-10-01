@@ -1,0 +1,9 @@
+README.rst
+setup.py
+kurdyukov_module/__init__.py
+kurdyukov_module/module_fast_hist.py
+kurdyukov_module.egg-info/PKG-INFO
+kurdyukov_module.egg-info/SOURCES.txt
+kurdyukov_module.egg-info/dependency_links.txt
+kurdyukov_module.egg-info/requires.txt
+kurdyukov_module.egg-info/top_level.txt
